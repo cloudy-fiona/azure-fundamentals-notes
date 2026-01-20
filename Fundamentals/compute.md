@@ -5,7 +5,8 @@
 - Kubernetes (AKS): manage complex app in multi-containers
 - Container instances: opposite to Kubernetes, lightweight way to run instantly
 
-## Compare AKS and EKS - see other file [need link]
+## Compare to AWS
+- Azure AKS = AWS EKS
 
 ## Security Notes
 - For VMs: Misconfigurations, unpatched OS, RDP/SSH port left exposed could lead to risk
