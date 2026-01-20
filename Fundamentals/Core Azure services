@@ -1,18 +1,12 @@
-#Core Azure services
+# Core Azure services
 
-#Compute Services
+## Compute Services
+- Virtual Network
+- App Services
+- Container instances and Kubernetes
 
 #Networking Services
 
 #Storage Services
 
 #Database Services
-
-Virtual Network
-#Azure DNS
-#CDN
-#VPN Gateway
-#Express Route
-#Traffic Manager
-#Application gateway
-#Load balancer
