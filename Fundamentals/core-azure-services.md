@@ -22,4 +22,3 @@
 - SQL
 - SQL Management instance
 - Cosmos DB (NoSQL)
-- 
